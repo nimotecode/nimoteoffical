@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'NimoteCode',
+  title: 'NIMOTECODE',
   description: 'A lightweight remote IDE for developers',
   base: '/',
 

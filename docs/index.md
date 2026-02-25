@@ -1,11 +1,11 @@
 ---
 layout: home
-title: NimoteCode：Remote Developer IDE
+title: NimoteCode
 titleTemplate: false
 
 hero:
-  name: NimoteCode：Remote Developer IDE
-  text: Mobile Remote Development IDE
+  name: NimoteCode: Mobile Remote Development IDE
+  # text: Mobile Remote Development IDE
   tagline: True development experience — anytime, anywhere — right from your phone or tablet.
   actions:
     - theme: brand
