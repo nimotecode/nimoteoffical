@@ -4,7 +4,7 @@ title: NimoteCode
 titleTemplate: false
 
 hero:
-  name: NimoteCode: Mobile Remote Development IDE
+  name: NimoteCode：Mobile Remote Development IDE
   # text: Mobile Remote Development IDE
   tagline: True development experience — anytime, anywhere — right from your phone or tablet.
   actions:

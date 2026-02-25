@@ -4,7 +4,7 @@ title: NIMOTECODE
 titleTemplate: false
 
 hero:
-  name: NimoteCode: 移动端远程开发 IDE
+  name: NimoteCode：移动端远程开发 IDE
   # text: 移动端远程开发 IDE
   tagline: 随时随地，在手机与平板上获得真实的开发体验
   actions:
